@@ -1,2 +1,2 @@
 # DenniScan
-Scanner de vulnerabilidades Web.
+Scanner de vulnerabilidades Web - Protótipo.
